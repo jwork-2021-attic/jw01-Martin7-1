@@ -1,4 +1,4 @@
-package W01.S201250182;
+package S201250182;
 
 /**
  * @author Zyi
